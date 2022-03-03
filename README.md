@@ -20,7 +20,7 @@ Setup steps:
 6- The frame buffer will open up automatically
 
 ### example terminal output:
-```36.49635314941406
+``36.49635314941406
 36.49635314941406
 36.49635314941406
 36.49635314941406
@@ -28,7 +28,8 @@ Setup steps:
 36.630035400390625
 36.630035400390625
 36.630035400390625
-36.630035400390625```
+36.630035400390625``
+
 
 **you can find the youtube video [here](https://www.youtube.com/watch?v=WRHrqlKBZ3s)**
 
